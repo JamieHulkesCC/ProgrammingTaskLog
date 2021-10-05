@@ -1,14 +1,14 @@
-Task:
-Date:
-Start:
-End:
-Break:
-Hours:
-Description:
+Task: Save System Setup
+Date: 05/10/21
+Start: 12:10
+End: 12:40
+Break: 5 mins
+Hours: 0.25
+Description: Setting up unity scene to allow me to create a save system that I can test
 
-Task:
-Date:
-Start:
+Task: Save System
+Date: 05/10/21
+Start: 12:40
 End:
 Break:
 Hours:
