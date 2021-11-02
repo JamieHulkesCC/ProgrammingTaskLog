@@ -20,7 +20,7 @@ Start: 12:20
 End: 12:50
 Break: 5 mins
 Hours: 0.25
-Description:
+Description: Menu which allows you to switch between characters to play as
 
 Task: Selection Menu Juice
 Date: 12/10/21
@@ -28,7 +28,23 @@ Start: 12:50
 End: 13:00
 Break: 0
 Hours: 10 mins
-Description: 
+Description: Adding animations to make the menu more appealing.
+
+Task: Setting up scene transition scenes 
+Date: 19/10/21
+Start: 12:10
+End: 12:30
+Break: 5 mins
+Hours: 0.25
+Description: Making fake game scenes in order to allow me to make a script and animation to transition them between.
+
+Task: Scene Transitions
+Date: 19/10/21
+Start: 12:30
+End: 14:00
+Break: 15 mins
+Hours: 1.25
+Description: Animation and script that make transitions between scenes in a nice visual way. 
 
 Task: 
 Date: 
