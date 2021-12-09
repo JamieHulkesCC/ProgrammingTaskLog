@@ -81,13 +81,38 @@ Break: 0
 Hours: 0.33
 Description: Editing values, fixing abnomilies and texting the shader through moving game objects.
 
-Task: Creating UI for Quiz Game
+Task: Creating UI for quiz game package
 Date: 9/11/21
 Start: 12:20
-End: 
+End: 12:55
 Break: 5 mins
-Hours: 
-Description: 
+Hours: 0.5
+Description: Creating the core UI elements of the UI game, working on the layout and functionality of the game.
+
+Task: Creating the quiz manager component for the package
+Date: 9/11/21
+Start: 13:00
+End: 14:00
+Break: 15 mins
+Hours: 0.75
+Description: Creating the quiz manager component script which allows for questions and answers to be created in inspector so they don't
+             have to go into the code to customize the package.
+
+Task: Continuing on creating the quiz manager component for the package
+Date: 16/11/21
+Start: 12:15
+End: 12:45
+Break: 5 mins
+Hours: 0.4
+Description: Finishing off the creation of the quiz manager.
+
+Task: Adding example data
+Date: 16/11/21
+Start: 12:50
+End: 13:00
+Break: 0
+Hours: 0.15
+Description: Filling in example scene and quiz manager data to show users how the package can be used
 
 Task: 
 Date: 
