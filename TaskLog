@@ -114,6 +114,63 @@ Break: 0
 Hours: 0.15
 Description: Filling in example scene and quiz manager data to show users how the package can be used
 
+Task: End screen
+Date: 16/11/21
+Start: 13:10
+End: 13:30
+Break: 0
+Hours: 0.33
+Description: Screen that comes up at the end and reveals the players results.
+
+Task: Main menu
+Date: 16/11/21
+Start: 13:30
+End: 14:05
+Break: 5 mins
+Hours: 0.5
+Description: New scene which has buttons to allow the player to navigate to the settings menu, the game itself and then exit the application.
+
+Task: Animated scene transitions
+Date: 23/11/21
+Start: 12:10
+End: 12:25
+Break: 0
+Hours: 0.25
+Description: Creating the animated scene transions that learnt how to make from the tutorial phase for the module into a nice component to add
+             to the package.
+
+Task: Settings menu
+Date: 23/11/21
+Start: 12:30
+End: 12:45
+Break: 0
+Hours: 0.25
+Description: Creating the settings scene and button layout with content of the functionality it will home.
+
+Task: Fullscreen mode
+Date: 23/11/21
+Start: 12:50
+End: 13:05
+Break: 0
+Hours: 0.25
+Description: Creating a toggle which when true makes the application fullscreen and when false makes it go into windowed mode.
+
+Task: Mute audio
+Date: 23/11/21
+Start: 13:10
+End: 13:25
+Break: 0
+Hours: 0.25
+Description: Mutes all audio when toggled off.
+
+Task: Highscore
+Date: 23/11/21
+Start: 13:30
+End: 14:00
+Break: 10
+Hours: 0.33
+Description: Using player prefs, this system saves the highest score and displays it at the end of the game and also on the main menu.
+
 Task: 
 Date: 
 Start: 
