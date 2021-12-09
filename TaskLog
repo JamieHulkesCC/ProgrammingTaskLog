@@ -1,3 +1,6 @@
+##Programming Task Log
+Task log - For an in depth write up of each of these tasks and the issues I came across read my learning journey.
+
 Task: Save System Setup
 Date: 05/10/21
 Start: 12:10
@@ -12,7 +15,15 @@ Start: 12:40
 End: 13:45
 Break: 10 mins
 Hours: 1
-Description: Complete save system
+Description: Complete save system through tutorial
+
+Task: Save System Binary Test
+Date: 05/10/21
+Start: 13:50
+End: 14:05
+Break: 0
+Hours: 0.25
+Description: Testing where the save files save to and testing alturing the data through a binary formatter.
 
 Task: Selection Menu
 Date: 12/10/21
