@@ -46,6 +46,30 @@ Break: 15 mins
 Hours: 1.25
 Description: Animation and script that make transitions between scenes in a nice visual way. 
 
+Task: Setting up potion scene
+Date: 26/10/21
+Start: 12:20
+End: 12:35
+Break: 0
+Hours: 0.25
+Description: Setting up models and scene with shader graph ready to create effect.
+
+Task: Creating potion shader graph
+Date: 26/10/21
+Start: 12:45
+End: 13:30
+Break: 5 mins
+Hours: 0.66
+Description: Creating shader graph shader for potion fluid.
+
+Task: Potion refinement
+Date: 26/10/21
+Start: 13:40
+End: 14:00
+Break: 0
+Hours: 0.33
+Description: Editing values, fixing abnomilies and texting the shader through moving game objects.
+
 Task: Creating UI for Quiz Game
 Date: 9/11/21
 Start: 12:20
