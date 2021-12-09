@@ -163,13 +163,38 @@ Break: 0
 Hours: 0.25
 Description: Mutes all audio when toggled off.
 
-Task: Highscore
+Task: Highscore system
 Date: 23/11/21
 Start: 13:30
 End: 14:00
 Break: 10
 Hours: 0.33
 Description: Using player prefs, this system saves the highest score and displays it at the end of the game and also on the main menu.
+
+Task: Animated background
+Date: 30/11/21
+Start: 12:10
+End: 12:35
+Break: 5
+Hours: 0.33
+Description: Drawn in photoshop then anmated in Unity, a small added bonus to the package to offer some polish and make it feel more complete.
+
+Task: Music implimentation
+Date: 30/11/21
+Start: 12:40
+End: 13:00
+Break: 0
+Hours: 0.33
+Description: Music for the menu and setting then a seperate track for the game itself. - Audio sourced from opengameart.org
+
+Task: Audio clip implimentation
+Date: 30/11/21
+Start: 13:05
+End: 13:35
+Break: 0
+Hours: 0.5
+Description: One sound for when the player get the answer right, one for when they get them wrong and then a general select button for all the
+             menus. - Audio sourced from opengameart.org
 
 Task: 
 Date: 
