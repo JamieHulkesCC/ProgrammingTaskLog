@@ -196,10 +196,35 @@ Hours: 0.5
 Description: One sound for when the player get the answer right, one for when they get them wrong and then a general select button for all the
              menus. - Audio sourced from opengameart.org
 
-Task: 
-Date: 
-Start: 
-End: 
-Break: 
-Hours: 
-Description: 
+Task: Animated high score
+Date: 30/11/21
+Start: 13:40
+End: 13:55
+Break: 0
+Hours: 0.33
+Description: Animation made for the highscore in the areas it appears to make it feel admireable and have more functionality in the package.
+
+Task: Making prefabs and packaging project
+Date: 07/12/21
+Start: 12:15
+End: 12:30
+Break: 0
+Hours: 0.33
+Description: Turning some reusable components in prefabs and making the project into a package in a presentable way to a user that downloads
+             the package.
+
+Task: Writing a general script for the tutorials
+Date: 07/12/21
+Start: 12:40
+End: 14:00
+Break: 10 mins
+Hours: 1.08
+Description: Writing a breif guideline to follow when I record the tutorials.
+
+Task: Recording Tutorials
+Date: 08/12/21
+Start: 11:00
+End: 16:00
+Break: 60 mins
+Hours: 4
+Description: Recordinging, editing and uploading tutorial videos
